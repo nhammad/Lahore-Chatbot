@@ -1,6 +1,8 @@
 # Lahore-Chatbot
 A simple chatbot which gives the user information on Lahore (Pakistan) and its history.
 
+Tech: Python, nltk,scikit-learn
+
 **Second Implementation:** If we use the second corpus included in this repository, we have a chatbot giving the user information regarding chatbots.
 
 Fundamentals of NLTK required for this course were learned via DataCamp's course **Natural Language Process Fundamentals in Python**
