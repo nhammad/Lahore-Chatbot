@@ -16,6 +16,5 @@ Tech: Python, nltk, scikit-learn
 
 Fundamentals of NLTK required for this course were learned via DataCamp's course **Natural Language Process Fundamentals in Python**
 
-The inspiration for this chatbot's implementation came from this [article](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e). 
 
 
