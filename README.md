@@ -10,6 +10,10 @@ Tech: Python, nltk, scikit-learn
 - Used the TF-IDF Approach to Estimate the Importance of Different Words
 - Used Cosine Similarity to Find The Chatbot's Appropriate Response
 
+## Requirements
+
+- Python3 (it would not work on previous versions)
+
 ## Further Imporvements
 
 - Need to find/build a better corpus.
